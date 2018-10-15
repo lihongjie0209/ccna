@@ -20,7 +20,7 @@
 
    ## LAB
 
-   ![1539608457002](D:\My_Project\ccna\Lay2_Device_Discovery\assets\1539608457002.png)
+   ![1539608457002](assets\1539608457002.png)
 
    两台路由器开机, 互连. 思科路由器默认开始CDP, 可以直接查看CDP 邻居信息.
 
@@ -150,7 +150,7 @@
 
 ## LAB
 
-![1539609202707](D:\My_Project\ccna\Lay2_Device_Discovery\assets\1539609202707.png)
+![1539609202707](assets\1539609202707.png)
 
 ### 开启LLDP
 
